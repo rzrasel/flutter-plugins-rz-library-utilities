@@ -474,8 +474,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: "vref-1.0.12"
-      resolved-ref: bb24ae629a54c1e1c98d2af7fdf234af1f00a696
+      ref: "vref-1.0.13"
+      resolved-ref: ae808c56504a4c9153fed40f0295e5dffb5d1bbf
       url: "https://github.com/rzrasel/flutter-plugins-rz-theme-set-1.git"
     source: git
     version: "0.0.1"
