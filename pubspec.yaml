@@ -25,7 +25,7 @@ dependencies:
   rz_theme_set_1:
     git:
       url: https://github.com/rzrasel/flutter-plugins-rz-theme-set-1.git
-      ref: vref-1.0.10
+      ref: vref-1.0.11
 
 dev_dependencies:
   flutter_test:
